@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+:star: About Me
+I'm a Software Developer based out of Toronto, Ontario, Canada. I've been programming and building applications for over 5 years. 
 
 <!--
 **DataNick/DataNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
