@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 :star: About Me
+
 I'm a Software Developer based out of Toronto, Ontario, Canada. I've been programming and building applications for over 5 years. 
 
 <!--
